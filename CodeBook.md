@@ -1,9 +1,9 @@
 <<<<<<< HEAD
-### GCD_Project1
+# GCD_Project1
 
 ## Getting and Cleaning Data: Course Project - CodeBook
 
-# We develop this CodeBook from the features.txt file which describes the nature of each measurement.
+### We develop this CodeBook from the features.txt file which describes the nature of each measurement.
 
 ==============================
 
@@ -33,7 +33,7 @@
 * tBodyGyroMean		Body gyroscope signal - mean
 * tBodyGyroJerkMean	Body gyroscope Jerk signal - mean
 
-# The set of variables that were estimated from these signals are: 
+### The set of variables that were estimated from these signals are: 
 
 * mean(): Mean value
 * std(): Standard deviation
